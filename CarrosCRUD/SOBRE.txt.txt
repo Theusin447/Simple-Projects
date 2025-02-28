@@ -1,0 +1,6 @@
+O "Cadastro de Carros do Curtarelli Inc. Ltda." versão 1.0 fora desenvolvido na linguagem Java utilizando:
+IDE - Apache NetBeans 12.6
+JDK - 17.0
+MySQL Connector - 8.3.0
+XAMPP Control Panel - 3.3.0
+MySQL Workbench - 8.0 CE

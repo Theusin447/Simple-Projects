@@ -1,0 +1,11 @@
+drop schema palogin ;
+create schema palogin;
+use palogin;
+
+CREATE TABLE carro (
+  cod_carro int NOT NULL AUTO_INCREMENT,
+  descricao_carro varchar(50) NOT NULL,
+  potencia_carro varchar(50) NOT NULL,
+  cor_carro varchar(50) NOT NULL,
+  PRIMARY KEY (cod_carro)
+);
